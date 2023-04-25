@@ -1,28 +1,3 @@
-// Type of coffee:
-// 1. Americano
-// 2. Cappuccino
-
-// Size of cup:
-// 1. Small
-// 2. Medium
-// 3. Big
-
-// Recipe americano:
-// 1. Grind arabica beans in a coffee grinder
-// 2. Pour water into Bialetti
-// 3. Pour arabica beans into Bialetti
-// 4. Collect Bialetti and put on the stove
-// 5. Pour coffee into a glass
-
-// Recipe cappuccino:
-// 1. Grind arabica beans in a coffee grinder
-// 2. Pour water into Bialetti
-// 3. Pour arabica beans into Bialetti
-// 4. Collect Bialetti and put on the stove
-// 5. Pour coffee into a glass
-// 6. Add milk to coffee
-
-
 // Border
 console.log('===============================================')
 
@@ -30,7 +5,7 @@ console.log('===============================================')
 console.log('Welcome to the cafe!')
 
 
-///// Sandwich coffee
+///// Coffee ingredients
 let coffeeMaker = "Bialetti";
 let liquid1 = "water";
 let liquid2 = "milk";
