@@ -26,7 +26,7 @@ class Coffee {
   constructor(name) {
     this.name = name;
     this.topping1 = liquid1;
-    this.topping3 = liquid2;
+    this.topping2 = liquid2;
 
   }
 
@@ -82,7 +82,7 @@ class Sandwich {
   constructor(name, topping1, topping2) {
     this.name = name;
     this.topping1 = topping1;
-    this.topping1 = topping2;
+    this.topping2 = topping2;
   }
 
   getRecipeSandwich(typeOfSandwich) {
